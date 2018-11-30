@@ -18,7 +18,7 @@ uses Google's Video Intelligence API to describe the content of the video.
 
 ## User Guide
 
-* Run using: python main.py
+* Run using: python all_in_one_API.py
 * images from twitter are stored in the format: img_%03d.jpg</br>
 * ```google_vision_sql.py``` and ```google_vision_mongo.py``` will upload data to mysql and mongodb respectively.
 * ```check_database_sql.py``` and ```check_database_mongo.py``` are apis used to query data and get information from database.

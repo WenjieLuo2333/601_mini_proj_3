@@ -23,10 +23,6 @@ uses Google's Video Intelligence API to describe the content of the video.
 * ```google_vision_sql.py``` and ```google_vision_mongo.py``` will upload data to mysql and mongodb respectively.
 * ```check_database_sql.py``` and ```check_database_mongo.py``` are apis used to query data and get information from database.
 
-## Example Output
-
-*601_Mini_project_APIs/src/Screen Shot 2018-09-18 at 11.02.56 PM.png
-
 ## References
 
 * Google Cloud Video Intelligence API python Frame level and video level example referred from https://cloud.google.com/video-intelligence/docs/label-tutorial
